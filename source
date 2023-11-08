@@ -1546,7 +1546,7 @@ local function BLRBG_fake_script() -- lol.MainButtons
 				end
 			end
 		end
-		Sky("15107595557")
+		Sky("14977100092")
 	end)
 	
 	script.Parent.skybox2.MouseButton1Click:Connect(function()
@@ -1572,7 +1572,7 @@ local function BLRBG_fake_script() -- lol.MainButtons
 				end
 			end
 		end
-		Sky("15107522732")
+		Sky("15299533544")
 	end)
 	
 	script.Parent.penicer.MouseButton1Click:Connect(function()
