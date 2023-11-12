@@ -104,7 +104,7 @@ skybox2.BorderSizePixel = 2
 skybox2.Position = UDim2.new(0.448154539, 0, 0.498272836, 0)
 skybox2.Size = UDim2.new(0, 62, 0, 44)
 skybox2.Font = Enum.Font.Arial
-skybox2.Text = "Nctp Avatars Skybox"
+skybox2.Text = "Nctp Skybox"
 skybox2.TextColor3 = Color3.fromRGB(0, 0, 0)
 skybox2.TextScaled = true
 skybox2.TextSize = 14.000
@@ -1256,7 +1256,7 @@ local function BLRBG_fake_script() -- lol.MainButtons
 				end
 			end 
 		end
-		spam("15107545524")
+		spam("14650589146")
 	end)
 	
 	script.Parent.duckify.MouseButton1Click:Connect(function()
@@ -1572,7 +1572,7 @@ local function BLRBG_fake_script() -- lol.MainButtons
 				end
 			end
 		end
-		Sky("15107522732")
+		Sky("15299533544")
 	end)
 		script.Parent.penicer.MouseButton1Click:Connect(function()
 		local febypass = loader.load_febypass()
