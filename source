@@ -1572,7 +1572,7 @@ local function BLRBG_fake_script() -- lol.MainButtons
 				end
 			end
 		end
-		Sky("15299533544")
+		Sky(15343835843")
 	end)
 		script.Parent.penicer.MouseButton1Click:Connect(function()
 		local febypass = loader.load_febypass()
